@@ -73,11 +73,13 @@ curl http://localhost:8080/albums \
     --data '{"id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'
 ```
 
-```json
+```
 HTTP/1.1 201 Created
 Content-Type: application/json; charset=utf-8
 Date: Wed, 02 Jun 2021 00:34:12 GMT
 Content-Length: 116
+```
+```json
 
 {
     "id": "4",
