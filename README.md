@@ -1,5 +1,7 @@
 # web-service-gin
 
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
+
 RESTful API written in Go with Gin.
 
 API returns data about vintage jazz records.
