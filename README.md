@@ -30,7 +30,7 @@ API returns data about vintage jazz records.
 
 ## Setup
 
-```
+```bash
 git clone https://github.com/Sarthak2143/web-service-gin
 cd web-service-gin/
 go get .
