@@ -47,15 +47,21 @@ curl http://localhost:8080
 ```
 
 ```json
-[                                                        {
-        "id": "1",                                           "title": "After Dark",
-        "artist": "Mr. Kitty",                               "Price": 56.99                                   },
-    {                                                        "id": "2",
+[
+    {
+        "id": "1",
+        "title": "After Dark",
+        "artist": "Mr. Kitty",
+        "Price": 56.99
+    },
+    {
+        "id": "2",
         "title": "Where is my mind?",
         "artist": "Pixies",
         "Price": 59.99
     },
-    {                                                        "id": "3",
+    {
+        "id": "3",
         "title": "Sarah Vaughan and Clifford Brown",
         "artist": "Sarah Vaughan",
         "Price": 48.99
